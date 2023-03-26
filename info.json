@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "name": "SE-locale",
   "version": "0.1.17",
@@ -6,4 +7,14 @@
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1.61","? space-exploration>=0.6.90","? deadlock-beltboxes-loaders","? Deadlock-SE-bridge","? aai-signal-transmission>=0.4.7","? space-exploration-postprocess","? jetpack","? aai-loaders"],
   "description": "Space Exploration's zh_CN translation need SE core update.Sometimes it cost lots of times and need Core published.\nSo i make this mod for temporary solution.\n太空探索模组的翻译工作需要提交审核并在将来的版本中才会发布.核心版本的变更、发布总是需要时间的。在新增内容但核心版本未更新汉化内容发布前，可以暂时使用此汉化了解内容。\n此外，此模组修复、修正了部分内容，以更加适合了解全部内容、玩法。"
+=======
+{
+  "name": "SE-locale",
+  "version": "0.1.17",
+  "title": "SE-locale",
+  "author": "LYARAIN",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.61","? space-exploration>=0.6.90","? deadlock-beltboxes-loaders","? Deadlock-SE-bridge","? aai-signal-transmission>=0.4.7","? space-exploration-postprocess","? jetpack","? aai-loaders"],
+  "description": "Space Exploration's zh_CN translation need SE core update.Sometimes it cost lots of times and need Core published.\nSo i make this mod for temporary solution.\n太空探索模组的翻译工作需要提交审核并在将来的版本中才会发布.核心版本的变更、发布总是需要时间的。在新增内容但核心版本未更新汉化内容发布前，可以暂时使用此汉化了解内容。\n此外，此模组修复、修正了部分内容，以更加适合了解全部内容、玩法。"
+>>>>>>> Stashed changes
 }
